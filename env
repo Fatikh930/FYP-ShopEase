@@ -1,0 +1,19 @@
+PORT=8000
+MONGODB_URI="mongodb://shopease_10:shopease1745@ac-cbpaci9-shard-00-00.p5xve8l.mongodb.net:27017,ac-cbpaci9-shard-00-01.p5xve8l.mongodb.net:27017,ac-cbpaci9-shard-00-02.p5xve8l.mongodb.net:27017/?ssl=true&replicaSet=atlas-brnt1f-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0"
+CORS_ORIGIN=*
+
+CLOUDINARY_CLOUD_NAME=shopeasefyp
+CLOUDINARY_API_KEY=593812115832951
+CLOUDINARY_API_SECRET=_lARGpwtuJt_iThlSEgUsngE-ZU
+
+ACCESS_TOKEN_SECRET=shopease
+ACCESS_TOKEN_EXPIRY=1d
+REFRESH_TOKEN_SECRET=shopease
+REFRESH_TOKEN_EXPIRY=7d
+
+EMAIL_USERNAME=fwdk91
+EMAIL_PASSWORD=fawadahmad110801@
+EMAIL_FROM="ShopEase <fwdk91@gmail.com>"
+
+STRIPE_SECRET_KEY="sk_test_51PFqsjP1EqSrCbQobMYLhrXSHz4M8vwyBlNLizK8I04N9Z6QS1EcG1ZxJyveiirGojLFkYWffNdwqt8ey4UEhKQA00iOGM6gzw"
+CLIENT_URL=https://localhost:5173
